@@ -1,7 +1,3 @@
 theme: jekyll-theme-cayman
-links1:
-  -name: all
-  url: /
-  type: recent
-  external: false
-link_1: about
+title: [Koo's site]
+description: [hello world]
