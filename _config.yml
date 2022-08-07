@@ -7,7 +7,7 @@ baseurl: # the subpath of the site
 url: https://www.koojiafeng.com # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone: +08:00
+timezone: 
 
 favicon: /assets/img/favicon.ico
 
@@ -23,10 +23,7 @@ user:
   job: Nothin
   aboutme: true # comment this out if you don't need the 'about' page.
 
-exclude:
-  - README.md
-  - LICENSE
-  - github
+
 
 defaults:
   - scope:
