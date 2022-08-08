@@ -421,7 +421,7 @@ img {
 
 .nav_list {
     margin: 0;
-    padding: 0;
+    padding: 0.67em;
     list-style: none;
 
     @include mobile-only {
