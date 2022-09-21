@@ -107,30 +107,6 @@ html.dark {
     }
 }
 
-body {
-    height: 100%;
-    font-weight: normal;
-    font-style: normal;
-    font-family: ui-sans-serif,-apple-system,BlinkMacSystemFont,Roboto,sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: var(--bg_color);
-    transition: background-color 0.5s ease;
-    background-size: 100%;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-text-size-adjust: 100%;
-    position: relative;
-    overflow-y: scroll;
-    -webkit-text-size-adjust: 100%
-
-
-    font-size: 18px;
-
-    @include breakpoint(medium) {
-        zoom: 1;
-    }
-}
 
 a {
     text-decoration: none;
